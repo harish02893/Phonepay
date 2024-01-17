@@ -44,7 +44,6 @@ skills.
 
 1. Clone the repository:
 
-> git clone https://github.com/username/repo.git
 
 2. Install the required packages:
 
@@ -63,9 +62,6 @@ skills.
 
 3. Select different dropdown options to display various facts and figures on the dashboard.
 
-# License
-
-This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 # Acknowledgments
 
