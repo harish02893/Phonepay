@@ -1,11 +1,36 @@
 # Phonepe_Pulse_Data_Visualization
 
-# Youtube Video - https://youtu.be/BywYo-UMJwU   
-![image](https://github.com/omkarm0542/Phonepe_Pulse_Data_Visualization/assets/123791884/e0d7bc40-99da-4a49-bd92-c7b65a94671a)
+Phonepe Pulse Data Visualization and Exploration:
+A User-Friendly Tool Using Streamlit and Plotly
 
-This project retrieves data from the PhonePe Pulse Github repository, transforms it, and stores it in a MySQL database. It then creates an interactive dashboard using Streamlit and Plotly to visualize the data.
 
-![image](https://user-images.githubusercontent.com/123791884/236590536-9d3687ed-4fca-4286-a36f-eb750e323d1c.png)
+#**Technologies**
+Github Cloning, Python, Pandas, MySQL,
+mysql-connector-python, Streamlit, and Plotly.
+
+
+**The learning outcomes of this project:**
+1. Data extraction and processing: You will learn how to use Clone Github to
+extract data from a repository and pre-process the data using Python libraries
+such as Pandas.
+2. Database management: You will learn how to use a relational database such
+as MySQL to store data and retrieve it efficiently for analysis and visualization.
+3. Visualization and dashboard creation: You will learn how to use libraries
+such as Streamlit and Plotly to create interactive and visually appealing
+dashboards for data visualization.
+4. Geo visualization: You will learn how to create and display data on a map
+using Plotly's built-in geo map functions.
+5. Dynamic updating: You will learn how to create a dashboard that
+dynamically updates based on the latest data in a database.
+6. Project development and deployment: You will learn how to develop a
+comprehensive and user-friendly solution, from data extraction to dashboard
+deployment. You will also learn how to test and deploy the solution to ensure it
+is secure, efficient, and user-friendly.
+By completing this project, you will gain hands-on experience with data extraction,
+processing, and visualization, as well as experience working with databases,
+dashboards, and web development. This project will provide a foundation for further
+learning and development in these areas and help you build a portfolio of practical
+skills.
 
 
 # Prerequisites
@@ -15,7 +40,7 @@ This project retrieves data from the PhonePe Pulse Github repository, transforms
 
 * MySQL
 
-# Installation                                                                             ![image](https://user-images.githubusercontent.com/123791884/236590572-4eb3f26c-5ed4-49f3-9277-e53e02e2c6e4.png)
+# Installation                                                                          
 
 1. Clone the repository:
 
